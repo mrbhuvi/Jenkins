@@ -1,1 +1,1 @@
-Prokects of jenkins pipline
+Projects of jenkins pipline
